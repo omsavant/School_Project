@@ -1,0 +1,119 @@
+body{
+    text-align: center;
+    color: black;
+    background-color: lightblue;
+    font-size: 15px;
+}
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+.my_nav_bar{
+    position: sticky;
+    top:0;
+    z-index:99999
+}
+#hogwarts{
+    height: 250px;
+    width: 250px;
+    object-fit: cover;
+}
+p{
+    font-size: 15px;
+}
+hr{
+    width: 100px;
+    height: 3px;
+    background-color: black;
+}
+#h1{
+    margin-top: 100px;
+    font-size: 28px;
+}
+#hh1{
+    margin-top: 50px;
+    font-size: 28px;
+}
+#h2{
+    font-size: 28px;
+}
+#dormi{
+    height: 150px;
+    width: 350px;
+}
+#great_hall{
+    height: 150px;
+    width: 350px;
+    object-fit: cover;
+}
+#prefect{
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+}
+#HBHG{
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+}
+#hat{
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+}
+#m1{
+    color: white;
+    height: 18.5px;
+    width: 1519;
+    background-color: red;
+    position: sticky;
+    top:0;
+    z-index:99999;
+
+}
+#cup{
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+}
+#quidd{
+    height: 300px;
+    width: 300px;
+    object-fit:cover 
+}
+#DADAC{
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+}
+#PC{
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+}
+#AC{
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+}
+#CC{
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+}
+#TC{
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+}
+#TS{
+    height: 500px;
+    width: 500px;
+    object-fit: cover;
+}
+#PMM{
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+}
